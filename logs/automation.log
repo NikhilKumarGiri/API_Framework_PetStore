@@ -1,0 +1,22 @@
+00:37:56.005 [main] INFO  api.test.UserTest - *****Creating User*****
+00:37:58.290 [main] INFO  api.test.UserTest - *****Get User info*****
+00:38:21.529 [main] INFO  api.test.UserTest - *****Creating User*****
+00:38:26.438 [main] INFO  api.test.UserTest - *****User is Created*****
+00:38:26.486 [main] INFO  api.test.UserTest - *****Get User info*****
+00:38:27.905 [main] INFO  api.test.UserTest - *****User info is Displayed*****
+00:38:29.303 [main] INFO  api.test.UserTest - *****User is Updated*****
+00:38:32.526 [main] INFO  api.test.UserTest - *****User is Deleted*****
+01:43:44.704 [main] INFO  api.test.UserTestFromProperties - *****Creating User*****
+01:43:47.430 [main] INFO  api.test.UserTestFromProperties - *****Get User info*****
+01:45:22.133 [main] INFO  api.test.UserTestFromProperties - *****Creating User*****
+01:45:27.706 [main] INFO  api.test.UserTestFromProperties - *****User is Created*****
+01:45:27.730 [main] INFO  api.test.UserTestFromProperties - *****Get User info*****
+01:45:30.069 [main] INFO  api.test.UserTestFromProperties - *****User info is Displayed*****
+01:45:31.900 [main] INFO  api.test.UserTestFromProperties - *****User is Updated*****
+01:45:36.093 [main] INFO  api.test.UserTestFromProperties - *****User is Deleted*****
+02:40:01.479 [main] INFO  api.test.UserTestFromProperties - *****Creating User*****
+02:40:08.309 [main] INFO  api.test.UserTestFromProperties - *****User is Created*****
+02:40:08.325 [main] INFO  api.test.UserTestFromProperties - *****Get User info*****
+02:40:12.383 [main] INFO  api.test.UserTestFromProperties - *****User info is Displayed*****
+02:40:15.861 [main] INFO  api.test.UserTestFromProperties - *****User is Updated*****
+02:40:22.306 [main] INFO  api.test.UserTestFromProperties - *****User is Deleted*****
